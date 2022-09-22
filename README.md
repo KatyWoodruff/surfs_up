@@ -5,18 +5,20 @@ For this analysis I have been asked to analyze weather data for June and Decembe
 
 ## Results:
 ### June Temperature Results
+![June](https://user-images.githubusercontent.com/107223650/191653718-bdcd8a0b-8070-46da-9ac3-ba9d2e307c98.png)
 
 Here we see that for the month of June:
-* The minimum temperature was 58
-* The maximum temperature was 87
+* The minimum temperature was 64
+* The maximum temperature was 85
 * The average temperature was 75
 
 ### December Temperature Results
+![December](https://user-images.githubusercontent.com/107223650/191653746-855c0cb6-109f-44d0-9a59-4b219db03619.png)
 
 Here we see that for the month of December:
-* The minimum temperature was 58
-* The maximum temperature was 87
-* The average temperature was 73
+* The minimum temperature was 56
+* The maximum temperature was 83
+* The average temperature was 71
 
 To highlight some of the key differences, we can look at the count and percentiles:
 
