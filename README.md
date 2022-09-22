@@ -5,14 +5,14 @@ For this analysis I have been asked to analyze weather data for June and Decembe
 
 ## Results:
 ### June Temperature Results
-![Screenshot 2022-09-21 111054](https://user-images.githubusercontent.com/107223650/191582995-aab0728c-9e6b-4893-a587-2fe0ab1c357e.png)
+
 Here we see that for the month of June:
 * The minimum temperature was 58
 * The maximum temperature was 87
 * The average temperature was 75
 
 ### December Temperature Results
-![Screenshot 2022-09-21 111113](https://user-images.githubusercontent.com/107223650/191583075-f8222cbe-8307-46f5-8f90-75c74174a23b.png)
+
 Here we see that for the month of December:
 * The minimum temperature was 58
 * The maximum temperature was 87
